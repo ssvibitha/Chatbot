@@ -9,6 +9,18 @@ const config: Config = {
   ],
   theme: {
     extend: {
+      colors: {
+        'bg-primary': '#0E1116',
+        'accent-cyan': '#6DE2E8',
+        'void-blue': '#1C273A',
+        'text-primary': '#E6EAF0',
+        'nova-bg': '#121820',
+      },
+      fontFamily: {
+        'poppins': ['Poppins', 'sans-serif'],
+        'inter': ['Inter', 'sans-serif'],
+        'fira': ['Fira Code', 'monospace'],
+      },
       backgroundImage: {
         'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',
         'gradient-conic':
