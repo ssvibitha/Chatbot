@@ -5,8 +5,8 @@ import { Inter } from 'next/font/google';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'AI Chat Assistant - Powered by Gemini Pro',
-  description: 'Beautiful chat interface powered by Google Gemini Pro AI model',
+  title: 'NOVA - AI Mentor',
+  description: 'Your futuristic AI mentor powered by advanced language models',
 };
 
 export default function RootLayout({

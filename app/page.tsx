@@ -6,10 +6,10 @@ export default function Home() {
       <div className="container mx-auto">
         <div className="text-center mb-8">
           <h1 className="text-4xl md:text-5xl font-bold bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent mb-4">
-            AI Chat Assistant
+            NOVA
           </h1>
           <p className="text-lg text-gray-600 max-w-2xl mx-auto">
-            Experience the power of Google's Gemini Pro AI model in a beautiful, intuitive chat interface.
+            Your futuristic AI mentor. Get clear, thoughtful guidance on any topic with practical insights and real-world analogies.
           </p>
         </div>
         
@@ -17,7 +17,7 @@ export default function Home() {
         
         <div className="mt-8 text-center text-sm text-gray-500">
           <p>
-            Powered by Google Gemini Pro • Built with Next.js and Tailwind CSS
+            NOVA AI Mentor • Powered by Advanced Language Models
           </p>
         </div>
       </div>

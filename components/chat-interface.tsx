@@ -73,7 +73,7 @@ export default function ChatInterface() {
         <CardHeader className="bg-gradient-to-r from-blue-600 to-purple-600 text-white rounded-t-lg">
           <CardTitle className="flex items-center gap-2 text-xl">
             <Bot className="h-6 w-6" />
-            Gemini Pro Chat
+            NOVA - AI Mentor
           </CardTitle>
         </CardHeader>
         
@@ -85,10 +85,10 @@ export default function ChatInterface() {
                   <Bot className="h-12 w-12 text-blue-600" />
                 </div>
                 <h3 className="text-xl font-semibold text-gray-800 mb-2">
-                  Welcome to Gemini Pro Chat
+                  Welcome to NOVA
                 </h3>
                 <p className="text-gray-600 max-w-md">
-                  Start a conversation with Google's powerful AI model. Ask questions, get help with tasks, or explore creative ideas.
+                  Your futuristic AI mentor. Ask questions, explore ideas, or get guidance on any topic. I'll respond with clarity and depth.
                 </p>
               </div>
             ) : (
